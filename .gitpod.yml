@@ -1,0 +1,5 @@
+image: gitpod/workspace-full
+
+tasks:
+  - init: npm init
+    command: npm run start
